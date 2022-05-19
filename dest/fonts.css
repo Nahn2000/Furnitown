@@ -1,0 +1,41 @@
+/* FONT FACE - font-display: fallback; */
+@font-face {
+  font-family: "Ell";
+  src: url("../fonts/ElleBaskerville.woff2") format("woff2"),
+    url("../fonts/ElleBaskerville.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Ell-Ita";
+  src: url("../fonts/ElleBaskerville-Italic.woff2") format("woff2"),
+    url("../fonts/ElleBaskerville-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Avenir";
+  src: url("../fonts/Avenir-Heavy.woff2") format("woff2"),
+    url("../fonts/Avenir-Heavy.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/Poppins-Regular.woff2") format("woff2"),
+    url("../fonts/Poppins-Regular.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Hij";
+  src: url("../fonts/HijrnotesPERSONALUSEONLY01.woff2") format("woff2"),
+    url("../fonts/HijrnotesPERSONALUSEONLY01.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: fallback;
+}
